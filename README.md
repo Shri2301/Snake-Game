@@ -12,8 +12,8 @@ A classic Snake Game built using Python. Control the snake, collect food, and tr
 ## Screenshots
 
 <p align="center">
-  <img src="game_view.png" alt="Main Window" width="500"/>
-  <img src="game_over.png" alt="Main Window" width="500"/>
+  <img src="game_view.png" alt="Game View" width="300" height="200" style="margin-right:20px;"/>
+  <img src="game_over.png" alt="Game Over" width="300" height="200"/>
 </p>
 
 ---
