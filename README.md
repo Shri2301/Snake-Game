@@ -12,7 +12,8 @@ A classic Snake Game built using Python. Control the snake, collect food, and tr
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot.png" alt="Main Window" width="500"/>
+  <img src="game_view.png" alt="Main Window" width="500"/>
+  <img src="game_over.png" alt="Main Window" width="500"/>
 </p>
 
 ---
@@ -41,5 +42,8 @@ A classic Snake Game built using Python. Control the snake, collect food, and tr
 4. Goal: Achieve the highest score possible!
 
 # Technologies Used
-Python
+- Python 3.x
+- Turtle Graphics (turtle module)
+- Tkinter
+
 
