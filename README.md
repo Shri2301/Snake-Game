@@ -31,10 +31,10 @@ A classic Snake Game built using Python. Control the snake, collect food, and tr
    
 # How to Play
 1. Use Arrow Keys to control the direction of the snake:
-   1. Up: Move up.
-   2. Down: Move down.
-   3. Left: Move left.
-   4. Right: Move right.
+   1. Up/W: Move up.
+   2. Down/S: Move down.
+   3. Left/A: Move left.
+   4. Right/D: Move right.
 2. Collect food to increase your score.
 3. Avoid colliding with:
    1. Walls
