@@ -7,6 +7,18 @@ A classic Snake Game built using Python. Control the snake, collect food, and tr
 - Score tracking.
 - Simple and user-friendly interface.
 
+---
+
+## Screenshot
+
+<p align="center">
+  <img src="screenshot.png" alt="Main Window" width="500"/>
+</p>
+
+*This shows the UI of the password generator app.*
+
+---
+
 ## Installation
 1. Clone this repository:
    ```bash
