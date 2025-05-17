@@ -1,4 +1,4 @@
-# Snake Game 🐍
+# Snake Game 
 
 A classic Snake Game built using Python. Control the snake, collect food, and try to achieve the highest score without colliding with the walls or yourself.
 
