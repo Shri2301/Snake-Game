@@ -11,13 +11,11 @@ A classic Snake Game built using Python. Control the snake, collect food, and tr
 
 ## Screenshots
 
-<table align="center">
-  <tr style="border: none;">
-    <td><img src="game_view.png" alt="Game View" width="300"></td>
-    <td style="width: 80px;"></td>
-    <td><img src="game_over.png" alt="Game Over" width="300"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="game_view.png" alt="Game View" width="300">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="game_over.png" alt="Game Over" width="300">
+</p>
 
 ---
 
