@@ -1,6 +1,6 @@
 from turtle import Turtle, Screen
 STARTING_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
-MOVE_DISTANCE = 20
+MOVE_DISTANCE = 10
 UP = 90
 DOWN = 270
 RIGHT = 0
@@ -22,6 +22,7 @@ class Snake:
         new_segment.color("white")
         new_segment.penup()
         new_segment.goto(position)
+        new_segment.shapesize(stretch_wid=0.5, stretch_len=0.5)  # Make the segment slimmer vertically
         self.segments.append(new_segment)
     def reset(self):
          for seg in self.segments:
